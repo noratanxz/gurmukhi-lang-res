@@ -1,7 +1,7 @@
 # Numbers in Punjabi
 
 - All numbers will be written exactly the same way as English but in PA
-- All numbers have different pronunications so 10 would not be 'ikk-sifr' but instead: das etc...
+- All numbers have different pronunications so 10 would not be 'ikk-sifr' but instead 'das'
 
 |Number (EN)|Number (PA)|Pronunication|
 |-----------|-----------|-------------|
