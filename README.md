@@ -1,5 +1,4 @@
-# gurmukhi-lang-res
-Resources for Punjabi (Gurmukhi) language-learning.
+# Punjabi (Gurmukhi) Language Resources
 
 __Some Definitions:__
 - Romanization: non-latin script converted into the latin script
