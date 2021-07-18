@@ -12,7 +12,7 @@ Romanization of Gurmukhi tends to vary so just a heads up that it may be a littl
 |----|----|
 |Punjabi Dictionary| https://www.shabdkosh.com/dictionary/english-punjabi/ |
 |Punjabi Discord Server| https://discord.gg/VPmbfvsUg9 |
-|Markers and Conjunct Consonants| https://punjabi.lrc.columbia.edu/?page_id=99 |
+|An Introduction to Punjabi| https://punjabi.lrc.columbia.edu/ |
 |Punjabi Grammar | http://punjabi.aglsoft.com/ |
 
 ## Credits
