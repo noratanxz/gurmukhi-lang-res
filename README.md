@@ -14,6 +14,7 @@ Romanization of Gurmukhi tends to vary so just a heads up that it may be a littl
 |Punjabi Discord Server| https://discord.gg/VPmbfvsUg9 |
 |An Introduction to Punjabi| https://punjabi.lrc.columbia.edu/ |
 |Punjabi Grammar | http://punjabi.aglsoft.com/ |
+|Punjabi Flashcards | https://quizlet.com/subject/punjabi/?type=sets&price=free&creator=all |
 
 ## Credits
 https://en.wikipedia.org/wiki/Gurmukhi
