@@ -8,10 +8,10 @@
 |0          |੦                            | sifr         |
 |1          |੧                           |  ikk        |
 |2          |੨                           | dou        |
-|3          |੩                           | thin        |
+|3          |੩                           | tinn        |
 |4          |੪                           | char        |
 |5          |੫                           | panj        |
-|6          |੬                           | she        |
+|6          |੬                           | sher        |
 |7          |੭                           | sath        |
-|8          |੮                           | att        |
-|9          |੯                           | noor        |
+|8          |੮                           | atth        |
+|9          |੯                           | noau        |
